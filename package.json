@@ -1,0 +1,19 @@
+{
+  "name": "blockchainsllc",
+  "version": "1.0.0",
+  "description": "backend assessment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.16.3",
+    "express-validator": "^5.0.3",
+    "mongoose": "*",
+    "node": "^9.9.0",
+    "nodemon": "^1.17.2"
+  },
+  "author": "Tanvir Ahmed",
+  "license": "ISC"
+}
