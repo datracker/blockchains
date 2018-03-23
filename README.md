@@ -1,5 +1,6 @@
-## blockchains
-# Create model of user object with the following fields with appropriate validation.
+# blockchains
+
+- Create model of user object with the following fields with appropriate validation.
 
 Last name (required)
 First name (required)
